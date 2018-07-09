@@ -1,0 +1,362 @@
+.pd0{
+    padding: 0;
+}
+.br{
+    border: 0;
+}
+.bg_1{
+    background: #8bc24a;
+}
+.bg_2{
+    background: #00bcd5;
+}
+.bg_3{
+    background: #ffcb23;
+}
+.bg_4{
+    background: #f34334;
+}
+.bg_5{
+    background: #eeeeee;
+}
+.bg_6{
+    background: #546478;
+}
+.bg_7{
+    background: #44b8eb;
+}
+.br_1{
+    border-right:1px solid #eeeeee;
+}
+.h-45{
+    height: 45px;
+}   
+.h-15{
+    height: 15px;
+}
+.color_1{
+    color: #ffffff;
+}
+.navbar-wrapper{
+    height: 50px;
+}
+.navbar {
+    background: #fff;
+}
+.navbar-nav > ul > li, .navbar-nav > ul > li > a{
+    color: #6d6d6d;
+}
+.navbar-nav>ul>li, .navbar-nav>ul>li>a{
+    height: 50px;
+    line-height: 50px;
+}
+.navbar .logo{
+    width: 155px;
+    height: 50px;
+}
+.navbar .logo img{
+    display: block;
+   width: 155px;
+    height: 50px;
+}
+.Hui-aside{
+    width: 155px;
+    background-color:#323641;
+}
+.Hui-article-box{
+    left: 155px;
+    top: 50px;
+}
+.Hui-aside::-webkit-scrollbar {display:none}
+.Hui-aside .menu_dropdown dt{
+    background: #3c404b;
+    color: #838282;
+    border: 0;
+}
+.Hui-aside .menu_dropdown dd ul{
+    padding: 3px 0;
+}
+.Hui-aside .menu_dropdown dd li a{
+    margin-left: 0;
+}
+.Hui-aside .menu_dropdown li a:hover{
+    background: #44b8eb;
+    color: #fff;
+}
+.Hui-aside .menu_dropdown dt:hover{
+    color: #ffffff;
+}
+#Hui-msg .message{
+    min-width: 50px;
+}
+#Hui-msg .badge{
+    position: absolute;
+    width: 22px;
+    display: block;
+    padding: 0;
+    line-height: 14px;
+    left: 35px;
+    top: 18px;
+}
+.badge{
+    padding: 0;
+    border-radius: 2px;
+}
+.label-danger, .badge-danger{
+    background: #44b8eb;
+}
+.hui-tx{
+    float: left;
+    display:block;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.hui-tx img{
+    display:block;
+    width: 100%;
+}
+.Hui-tabNav{
+    height: 50px;
+    background: #eeeeee;
+}
+.Hui-tabNav-wp{
+    height: 50px;
+    background: #eeeeee;
+}
+.Hui-tabNav .acrossTab{
+    height: 50px;
+    background-image: none;
+    background: #eeeeee;
+    top: 0;
+}
+.Hui-tabNav .acrossTab li{
+    height: 50px;
+    line-height: 50px;
+    background: #eeeeee;
+}
+.Hui-tabNav .acrossTab li em{
+    display: none;
+}
+.Hui-article{
+    top: 50px;
+}
+.breadcrumb{
+    background-color: rgba(0, 0, 0, 0);
+    border-bottom: 0;
+}
+
+/* welcom */
+.desk-top-1{
+    height: 75px;
+}
+.desk-top-1 .top-l{
+    float: left;
+}
+.desk-top-1 .top-r{
+    float: right;
+}
+.desk-top-1 .top-l .total{
+    display: inline-block;
+    width: 70px;
+    height: 30px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 3px;
+    background: #44b8eb;
+}
+a:hover{
+    text-decoration: none;
+}
+.desk-top-1 .top-r .time{
+    display: inline-block;
+    width: 90px;
+    height: 25px;
+    border: 1px solid #44b8eb;
+    border-radius: 3px;
+    text-align: center;
+    line-height: 25px;
+    color: #44b8eb;
+    font-size: 12px;
+}
+.desk-top-1 .top-r a:hover{
+    color:#44b8eb;
+}
+.desk-top-1 .wel{
+    font-size: 14px;
+    color: #696969;
+}
+.desk-top-1 .tips{
+    font-size: 12px;
+    color: #939393;
+}
+.desk-top-2{
+    height: 85px;
+    background: #eeeeee;
+    padding: 15px 14px;
+}
+.desk-top-2 h5{
+    font-weight: bold;
+    font-size: 14px;
+    color: #6c6c6c;
+}
+.desk-top-2 p{
+    font-size: 12px;
+    color: #919191;
+}
+.desk-hui-card{
+    margin-top: 25px;
+}
+.desk-hui-card .hui-card-header{
+    height: 20px;
+    font-size: 14px;
+    color: #6b6b6b;
+}
+.desk-hui-card .hui-card-header .line_1{
+    height: 20px;
+    width: 3px;
+    background: #44b8eb;
+    float: left;
+    margin-right: 8px;
+}
+.hui-card-body{
+    margin-top: 20px;
+}
+.desk-hui-card .hui-card-body li{
+    float: left;
+    height: 40px;
+    margin-right: 15px;
+}
+.desk-hui-card .hui-card-body li a{
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 25px;
+    background: #dce2e7;
+    font-size: 12px;
+    color: #8b8b8b;
+}
+.desk-hui-card .hui-card-body li a:hover{
+    background: #546478;
+    color: #ffffff;
+}
+.add_percent{
+    width: 100%;
+    height: 200px;
+    border: 1px solid #ebebeb;
+    box-shadow: 0px 0px 5px rgba(242, 242, 242, 1);
+}
+
+.container-fluid{
+    padding: 0;
+}
+.add_percent .icon{
+    background: #fff;
+    height: 79px;
+    padding-top: 20px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.add_percent .icon img{
+    display: block;
+    width: 50px;
+    height: 45px;
+    margin: 0 auto;
+}
+.add_percent .per{
+    position: relative;
+    height: 100px;
+    background: #f6f6f6;
+    font-size: 36px;
+    color: #3d3d3d;
+    text-align: center;
+    line-height: 40px;
+}
+.add_percent .per .cap{
+    position: absolute;
+    width: 100px;
+    height: 35px;
+    left: 50%;
+    margin-left: -50px;
+    top: -20px;
+    font-size: 12px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+}
+/* 分类管理 */
+.btn-success{
+    background-color:#dcdcdc;
+    border-color:#dcdcdc;
+}
+.btn-success:hover{
+    background-color: #dcdcdc;
+    border-color:#dcdcdc;
+}
+.dataTable td.sorting_1{
+    background: #fff;
+}
+.table .sort{
+    display: inline-block;
+    padding: 2px 2px;
+    font-size: 12px;
+    color: #ffffff;
+    background: #44b8eb;
+    line-height: 12px;
+    border-radius: 3px;
+}
+.table-bg thead th{
+    background: #eeeeee;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover, .dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover{
+    background: #44b8eb;
+}
+.tabBar{
+    border-bottom: 2px solid #44b8eb;
+}
+.tabBar span.current{
+    background: #44b8eb;
+}
+.line_1{
+    height: 1px;
+    background: #e5e5e5;
+}
+.btn{
+    border: 0;
+}
+.layui-layer-btn .layui-layer-btn0{
+    background: #44b8eb;
+}
+.layui-layer-btn a{
+    border: 0;
+}
+.btn:hover{
+    background: #44b8eb;
+    color: #fff;
+}
+
+.a_ico{
+    display: inline-block;
+    border-radius: 50%;
+    background: #d2d2d2;
+    width: 23px;
+    height: 23px;
+    text-align: center;
+    line-height: 23px;
+}
+
+.a_ico i{
+    color: #fdfbfb;
+}
+.b_ico:hover{
+    background: #44b8eb;
+}
+.d_ico:hover{
+    background: #f29c9f;
+}
+.btn-success{
+    background: #44b8eb;
+}
